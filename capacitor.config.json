@@ -1,0 +1,7 @@
+{
+  "appId": "com.sakina.app",
+  "appName": "سكينة",
+  "webDir": "www",
+  "backgroundColor": "#174F42",
+  "android": { "allowMixedContent": false }
+}
