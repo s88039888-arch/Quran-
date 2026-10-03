@@ -1,0 +1,37 @@
+{
+  "name": "سكينة — مصحف وأذكار وسبحة",
+  "short_name": "سكينة",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E9F0EC",
+  "theme_color": "#174F42",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/",
+  "description": "تطبيق سكينة: مصحف كامل مع بحث في الآيات، أذكار الصباح والمساء، سبحة إلكترونية، تقويم هجري، وبطاقات أعمال الخير اليومية.",
+  "categories": [
+    "lifestyle",
+    "education"
+  ],
+  "prefer_related_applications": false
+}
